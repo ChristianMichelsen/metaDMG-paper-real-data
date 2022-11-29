@@ -8,7 +8,7 @@ packages = [{include = "real_data"}]
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.11"
-metadmg = {version = "^0.37.1", extras = ["all"]}
+metadmg = {version = "0.34", extras = ["all"]}
 seaborn = "^0.12.1"
 scipy = "^1.9.3"
 scikit-learn = "^1.1.3"

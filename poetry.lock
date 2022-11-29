@@ -662,7 +662,7 @@ traitlets = "*"
 
 [[package]]
 name = "metadmg"
-version = "0.37.1"
+version = "0.34.0"
 description = "metaDMG: Estimating ancient damage in (meta)genomic DNA rapidly"
 category = "main"
 optional = false
@@ -1340,7 +1340,7 @@ testing = ["flake8 (<5)", "func-timeout", "jaraco.functools", "jaraco.itertools"
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.9,<3.11"
-content-hash = "cbb41b42185d85ecf6b6c5c4860cf54aecf52e8cd22aea34c25d2642dd822149"
+content-hash = "58d383a82714e47872a0a874fde6b2eb4efd2144ae5a6e67c076bf2f13ce6b84"
 
 [metadata.files]
 absl-py = [
@@ -1972,8 +1972,8 @@ matplotlib-inline = [
     {file = "matplotlib_inline-0.1.6-py3-none-any.whl", hash = "sha256:f1f41aab5328aa5aaea9b16d083b128102f8712542f819fe7e6a420ff581b311"},
 ]
 metadmg = [
-    {file = "metadmg-0.37.1-py3-none-any.whl", hash = "sha256:3b3fd3ccfbdd1712392ea25eef02775512b275e57453cfba22adabddf99c7fba"},
-    {file = "metadmg-0.37.1.tar.gz", hash = "sha256:35438a7ee5ecea00174c4d437a16a508bd7f6bd97fa8e9ca370e3b0d208408f7"},
+    {file = "metadmg-0.34.0-py3-none-any.whl", hash = "sha256:160a3b1d341721bf9701d79b10773360e7cd6dddbff21fbb5ffbd381b45d9a5d"},
+    {file = "metadmg-0.34.0.tar.gz", hash = "sha256:1190dc170bff1e22a9991959652ad0ed362d099407eabde230d52f648f5f6f11"},
 ]
 multipledispatch = [
     {file = "multipledispatch-0.6.0-py2-none-any.whl", hash = "sha256:407e6d8c5fa27075968ba07c4db3ef5f02bea4e871e959570eeb69ee39a6565b"},
