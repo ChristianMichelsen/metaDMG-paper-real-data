@@ -544,10 +544,10 @@ samples = [
     r"Lake 7 (forward)",
 ]
 species = [
-    "Homo sapiens",
-    "Gallus gallus",
-    "Crocuta crocuta",
-    "Equisetum arvense",
+    "Homo Sapiens",
+    "Gallus Gallus",
+    "Crocuta Crocuta",
+    "Equisetum Arvense",
 ]
 D_fits = [
     r"$D_\mathrm{fit} = 24.6\%$",
